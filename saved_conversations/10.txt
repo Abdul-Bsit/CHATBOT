@@ -1,0 +1,13 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : basit
+bot : - appointment details saved. you shall be contacted shortly.
+user : i need help
+bot : - - What are your interests
+user : medicine
+bot : - Ok, its not just a normal fever, you should consult a doctor.
+user : i had a fever
+bot : - great to know. how can i assist you then?
+user : tell me solution
+bot : - good to know. how may i assist you then?
+user : hello
+bot : - - Hello
